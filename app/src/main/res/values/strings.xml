@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Study Case</string>
+    <string name="judul_main">Aplikasi Perhitungan Lahan</string>
+    <string name="alas">Masukkan Nilai Alas</string>
+    <string name="tinggi">Masukkan Nilai Tinggi</string>
+    <string name="cek">Cek</string>
+    <string name="hasil" />
+</resources>
